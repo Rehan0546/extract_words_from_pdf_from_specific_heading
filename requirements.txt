@@ -1,0 +1,5 @@
+PyPDF2
+pandas
+regex
+numpy
+nltk
